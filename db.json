@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "id": 1, "name": "Test Folder" },
+    { "id": 2, "name": "Coding Exercises" }
+  ],
+  "notes": [
+    { "id": 1, "content": "Note 1", "folderId": 1, "createdAt": "2021-11-10T16:20:05.123Z", "modifiedAt": "2021-10-14T16:20:05.123Z" },
+    { "id": 2, "content": "Note 2", "folderId": 1, "createdAt": "2021-11-10T16:22:15.444Z", "modifiedAt": "2021-11-08T16:27:54.563Z" },
+    { "id": 3, "content": "Notes App Clone\nCreate a stripped down clone of notes app.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fermentum id sem nec sodales. Donec ut rutrum dolor. Quisque malesuada ipsum ultrices ante lacinia posuere. Morbi felis tellus, pharetra a gravida ut, molestie vel nisl. Morbi quis justo sapien. Vivamus commodo metus convallis sapien imperdiet molestie. Ut pulvinar pellentesque odio vitae vulputate. Vivamus eget auctor est. Nullam id imperdiet nisl. Quisque elementum, enim ac lacinia pellentesque, nulla ligula efficitur odio, id mattis erat nunc at justo. Nunc cursus eros nec augue pharetra lacinia.", "folderId": 2, "createdAt": "2021-11-10T17:44:45.123Z", "modifiedAt": "2021-11-10T18:00:05.123Z" },
+    { "id": 4, "content": "TODO List\nDo coding exercise", "folderId": 2, "createdAt": "2021-11-10T17:30:36.123Z", "modifiedAt": "2021-11-10T18:20:05.123Z" }
+  ]
+}
